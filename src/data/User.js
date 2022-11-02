@@ -157,5 +157,16 @@ const Users = {
       portfolio: "",
     },
   },
+  "TanmayRaina": {
+    name: "Tanmay Raina",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/TanmayRaina",
+      instagram: "https://www.instagram.com/tanmay_raina/?hl=en",
+      linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
